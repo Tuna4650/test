@@ -1,0 +1,9 @@
+p {
+
+    text-align: center;
+}
+
+input[type=text] {
+    color: red;
+    background-color: black;
+}
